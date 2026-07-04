@@ -795,6 +795,16 @@
               <FileType>5</FileType>
               <FilePath>.\APP\Servo.h</FilePath>
             </File>
+            <File>
+              <FileName>smoke.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\APP\smoke.c</FilePath>
+            </File>
+            <File>
+              <FileName>smoke.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\APP\smoke.h</FilePath>
+            </File>
           </Files>
         </Group>
       </Groups>
