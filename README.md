@@ -79,7 +79,7 @@ main() 主循环
 | OLED I2C SCL/SDA | PB6 / PB7 |
 | RC522 SPI | PB12(CS), PB13(SCK), PB14(MOSI), PB15(MISO) |
 | DHT11 | PC13 |
-| MQ-2 烟雾 | PA0 |
+| MQ-2 烟雾 | PC14 |
 | 蜂鸣器 | PA5 |
 | 舵机 PWM | PA6 (TIM3_CH1) |
 | 矩阵按键 | ROW: PA8,PB7,PB6,PB5 — COL: PB4,PB3,PA12,PA11 |
